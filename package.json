@@ -1,0 +1,26 @@
+{
+  "name": "atm",
+  "version": "1.0.0",
+  "description": "this is the atm search app",
+  "main": "application.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fourmb/atm.git"
+  },
+  "author": "fourmb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fourmb/atm/issues"
+  },
+  "homepage": "https://github.com/fourmb/atm#readme",
+  "dependencies": {
+    "browserify": "^13.3.0",
+    "browserify-incremental": "^3.1.1"
+  }
+}
